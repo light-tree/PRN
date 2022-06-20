@@ -4,16 +4,10 @@
     <Compile Update="frmAppointmentDetail.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="frmAppointmentList.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="frmCustomerDetail.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="frmCustomerList.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="frmDentistList.cs">
+    <Compile Update="frmHome.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="frmLogin.cs">
@@ -23,9 +17,6 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="frmServiceDetail.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="frmServiceList.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
